@@ -1,0 +1,11 @@
+.private_main {
+    background-image: url(https://media1.popsugar-assets.com/files/thumbor/pbVlH4Kkw1S4LPYS1ru3v7dEk3s/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/09/23/911/n/1922507/ed09c455dfe2e7e7_andrea-leopardi-cmNC6XStsIw-unsplash/i/Pastel-Sky-iPhone-Wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 92.9vh;
+    display: flex;
+}
+
+.text {
+    margin: auto;
+}
